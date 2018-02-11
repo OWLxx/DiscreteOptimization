@@ -1,0 +1,3 @@
+#!C:\Python36\python.exe
+from tsp_solver.demo import tsp
+tsp.main()
